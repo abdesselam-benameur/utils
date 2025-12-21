@@ -1,8 +1,17 @@
-# Linux
+# Linux & MacOS
+
+For Linux :
 
 ```bash
 sudo apt install fzf
 ```
+
+For MacOS :
+
+```bash
+brew install fzf
+```
+
 To set up shell integrations check this : [https://github.com/junegunn/fzf?tab=readme-ov-file#setting-up-shell-integration](https://github.com/junegunn/fzf?tab=readme-ov-file#setting-up-shell-integration)
 
 # Windows
